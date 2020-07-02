@@ -54,9 +54,9 @@ Vineetha Rallabandi
 ## References
 
 1. http://global.levi.com/jacquard/jacquard-with-buy-link.html
- style="font-weight:normal;">
+
 2. https://www.instructables.com/id/ZPatch-Hybrid-ResistiveCapacitive-ETextile-Input/
- style="font-weight:normal;">
+
 3. Paul Strohmeier, Jarrod Knibbe, Sebastian Boring, Kasper Hornbæk, 2018. zPatch: Hybrid Resistive/Capacitive eTextile Input.
      https://dl.acm.org/doi/pdf/10.1145/3173225.3173242
- style="font-weight:normal;">4. https://www.quora.com/Do-It-Yourself-DIY-Could-someone-provide-with-the-circuit-schematic-that-is-used-to-command-a-mobile-phone-through-the-audio-cable-Please-read-below
+4. https://www.quora.com/Do-It-Yourself-DIY-Could-someone-provide-with-the-circuit-schematic-that-is-used-to-command-a-mobile-phone-through-the-audio-cable-Please-read-below
