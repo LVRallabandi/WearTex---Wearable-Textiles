@@ -50,9 +50,7 @@ Arduino code is under folder "Arduino"
 Procedure to create Sensor patches is under the folder Sensor patches
 
 ## Deployment
-Run the program and dump code into arduino using IDE.
-and connect circuit as shown in Project circuit.jpg 
-
+Create the sensor patches. Test for the sensor patches values. Connect the patches and electronic parts as per the circuit. Dump the code into Arduino IDE and run.
 
 ## Authors
 
