@@ -1,9 +1,6 @@
 # WearTex---Wearable-Textiles
-Using gestures to control apps or electronic devices has been developing rapidly. A few years ago gestures were included into smart phones to capture pictures, screenshots, to lock screens etc. Today, controlling user interactions/apps with gestures has expanded from mobile phones to wearable textiles. Levis Jacquard jacket is the best example for wearable textiles.
-zPatches are wearable textile patches which are thin, soft, iron-on textile patch that provide users with an input channel to control an app on their phone with their day-to-day clothing.They can be attached to any piece of cloth or human arms or wrists and can control various actions using gestures. [2]
- For example, shooting while playing a video game, controlling your smart watch with pressure etc.
- 
- Using these zPtaches, This project control images capturing and music control usingkm a smart phone.
+WearTex are sensor patches with pressure inputs. These patches are made from conductive and resistive textiles. The resistive fabric velostat is placed in between two layers of conductive fabric. The sensor patches can be attached to any wearable textile (non- conductive) and on skin	. The project was implemented using Arduino IDE and microcontroller Arduino UNO.
+The project requires only touch/minimal pressure to the patch. The patch has recorded values of pressure input with thumb upto 12 levels and can also be used for devices that require pressure input. WearTex patches in the project are used to control camera application i.e. to capture pictures and record videos and in a music player application, play/pause a song, move to the next song and volume control increase/decrease. 
 
 ## Getting Started
 
