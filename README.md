@@ -10,14 +10,22 @@ These instructions will get you a copy of the project up and running on your loc
 Hardware Resouces:
 
 ```
-1. Patches
-2. Arduino UNO
-3. Jumper wires
-4. Alligator clips
-5. Mobile phone with camera
-6. Aux cable
-7. Bread board
-8. 5 volts relay module
+1.	Conductive Fabric, non-stretchable 
+2.	 Velostat 
+3.	 Iron-on textile 
+4.	Cotton fabric
+5.	 Alligator clips 
+6.	Jumper cables 
+7.	 Arduino UNO 
+8.	 Arduino SDK
+9.	Computer 
+10.	5v Relay - 3
+11.	Resistors 2k-ohms, 1k- ohms and 220 ohms
+12.	Audio jack 3.5mm
+13.	Breadboard 
+14.	Sewing needle
+15.	Sewing thread(cotton)
+
 ```
 
 Software Resouces:
@@ -41,7 +49,7 @@ Arduino code is under folder "Arduino"
 
 ## Deployment
 run the program and dump code into arduino using IDE.
-and connecct circuit as shown in circuit.jpg 
+and connecct circuit as shown in Projectcircuit.jpg 
 
 
 ## Authors
@@ -49,11 +57,10 @@ and connecct circuit as shown in circuit.jpg
 Vineetha Rallabandi
 
 ## References
+[1] Paul Strohmeier, Jarrod Knibbe, Sebastian Boring, Kasper Hornbæk. zPatch: Hybrid Resistive/Capacitive eTextile Input. Human Centred Computing - University of Copenhagen, Denmark.
+[2] https://www.levi.com/DE/en/features/levisxjacquardbygoogle
+[3] https://www.instructables.com/id/ZPatch-Hybrid-ResistiveCapacitive-ETextile-Input/
+[4] https://www.tinkercad.com/
+[5] https://www.quora.com/Do-It-Yourself-DIY-Could-someone-provide-with-the-circuit-schematic-that-is-used-to-command-a-mobile-phone-through-the-audio-cable-Please-read-below
 
-1. http://global.levi.com/jacquard/jacquard-with-buy-link.html
 
-2. https://www.instructables.com/id/ZPatch-Hybrid-ResistiveCapacitive-ETextile-Input/
-
-3. Paul Strohmeier, Jarrod Knibbe, Sebastian Boring, Kasper Hornbæk, 2018. zPatch: Hybrid Resistive/Capacitive eTextile Input.
-     https://dl.acm.org/doi/pdf/10.1145/3173225.3173242
-4. https://www.quora.com/Do-It-Yourself-DIY-Could-someone-provide-with-the-circuit-schematic-that-is-used-to-command-a-mobile-phone-through-the-audio-cable-Please-read-below
