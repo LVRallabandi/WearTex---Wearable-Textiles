@@ -58,8 +58,8 @@ Vineetha Rallabandi
 
 ## References
 [1] Paul Strohmeier, Jarrod Knibbe, Sebastian Boring, Kasper Hornbæk. zPatch: Hybrid Resistive/Capacitive eTextile Input. Human Centred Computing - University of Copenhagen, Denmark. \
-[2] https://www.levi.com/DE/en/features/levisxjacquardbygoogle\
-[3] https://www.instructables.com/id/ZPatch-Hybrid-ResistiveCapacitive-ETextile-Input/\
+[2] https://www.levi.com/DE/en/features/levisxjacquardbygoogle \
+[3] https://www.instructables.com/id/ZPatch-Hybrid-ResistiveCapacitive-ETextile-Input/ \
 [4] https://www.tinkercad.com/ \
 [5] https://www.quora.com/Do-It-Yourself-DIY-Could-someone-provide-with-the-circuit-schematic-that-is-used-to-command-a-mobile-phone-through-the-audio-cable-Please-read-below
 
